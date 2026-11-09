@@ -9,3 +9,8 @@ targets/*.msi
 *.ko
 *.pcap
 *.pcapng
+
+# RE tooling output
+ghidra/
+wine-prefix/
+ghidra_analyze.py
