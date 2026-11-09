@@ -1,0 +1,11 @@
+targets/*.exe
+targets/*.bin
+targets/*.sys
+targets/*.dll
+targets/*.cab
+targets/*.msi
+*.pcap
+*.pcapng
+*.ko
+*.pcap
+*.pcapng
