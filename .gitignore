@@ -4,13 +4,12 @@ targets/*.sys
 targets/*.dll
 targets/*.cab
 targets/*.msi
+targets/*.inf
+targets/*.cat
 *.pcap
 *.pcapng
 *.ko
-*.pcap
-*.pcapng
 
 # RE tooling output
 ghidra/
 wine-prefix/
-ghidra_analyze.py
